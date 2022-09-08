@@ -21,3 +21,16 @@
    
    
    script is not required any gas it is free of cost it just view the contrct does not modify it hence it is free 
+
+
+
+
+
+
+
+####CHAPTER 1 DAY 2
+<1> saftety & security -> cadence maximises the saftey and security  by way of making itself resource oriented programming language, it has diffrentiated from contract and transaction and also scripts the assets witch owner holds like nfts it stored into owners account not in contract
+clarity -> cadence is easy to learn Code should be easy to read, especially Smart Contract code so that we, as users, can verify it is safe. This is achieved by making the code declarative and allowing the developer to express their intentions directly. Cadence makes those intentions very clear by design, which, along with readability, make auditing and reviewing more efficient.
+Approachability -> The way Cadence is written is very familiar to other programming languages, making it easy to transition to if you have prior experience.
+Developer Experience -> The developer should be able to debug in an easy manner, understand what does where, and not feel frustrated. Cadence does this by making error messages very clear.
+Resource Oriented Programming ->This is by far the most important, and will take up about 80% of our time in this course. Cadence at its core uses things called Resources, and they define pretty much everything we do on Flow. I will not get into this now, because we will have an entire lesson on Resources at some point.
