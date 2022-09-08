@@ -24,3 +24,5 @@ clarity -> cadence is easy to learn Code should be easy to read, especially Smar
 Approachability -> The way Cadence is written is very familiar to other programming languages, making it easy to transition to if you have prior experience.
 Developer Experience -> The developer should be able to debug in an easy manner, understand what does where, and not feel frustrated. Cadence does this by making error messages very clear.
 Resource Oriented Programming ->This is by far the most important, and will take up about 80% of our time in this course. Cadence at its core uses things called Resources, and they define pretty much everything we do on Flow. I will not get into this now, because we will have an entire lesson on Resources at some point.
+
+#####<2> in any language need to function properly these saftety and security, clarity, approachablility, developer experience, resource oriented programming is required to run smoothly one can not take few and rest leave it it has to be full 
