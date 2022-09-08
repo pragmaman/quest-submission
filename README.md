@@ -13,19 +13,9 @@
   
   ####<2> smart conntract is a piece of code which the author or whoever wriiten it the code smart contract can not act itself one need to tell what to do how to do when to do all that stuff it can not decide itself it is just like robot which just follows the order smart contracts can not be modified once it uploaded to the mainnet after that one can interact with it but cant modify it
   
-  
-  #####<3> in cadence programming language to interct with code thers only two ways to do that, that is TRANSACTION & SCRIPT
+   #####<3> in cadence programming language to interct with code thers only two ways to do that, that is TRANSACTION & SCRIPT
    transaction requires gas eg to mint nfts to transfer asset trtansaction is rrequired transaction is not free of cost and transaction can change the data
-   
-   
-   
-   
-   script is not required any gas it is free of cost it just view the contrct does not modify it hence it is free 
-
-
-
-
-
+    script is not required any gas it is free of cost it just view the contrct does not modify it hence it is free 
 
 
 ####CHAPTER 1 DAY 2
