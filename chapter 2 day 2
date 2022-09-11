@@ -1,0 +1,13 @@
+ Chapter 2 Day 2
+<1> changeGreeting is function name in script we use only for return statement or view the contract 
+we can change or modify the contract by using transction
+
+
+<2> AuthAccount mean in prepare function is signer it access the account/owner of the wallet first owner pays transaction cost then accesss the account
+
+
+
+<3>prepare phase means it give owner/wallet to access the account by first paying gas cost then access it 
+ execute means it changes and modifies the conntract .. technically prepare function  can do both works but if we separate and write the code then its looks clean 
+ 
+ <4>
