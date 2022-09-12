@@ -1,0 +1,35 @@
+Chapter 2 Day 4 - Basic Structs
+...solidity
+
+pub contract LasVegas {
+pub var societies: {Address: Society}
+
+   pub struct Society {
+   pub let building: String
+   pub let name: String
+   pub let flatNumber: Int
+   pub let swimmingPool: String
+   pub let account: Address
+
+   init(_building: String, _name: String, _flatNumber: Int, _swimmingPool: String, _account: Address) {
+   self.building    =   _building
+   self.name        =   _name
+   self.flatNumber  =  _flatNumber
+   self.swimmingPool  = _swimmingPool
+   self.account       = _account
+   }
+ }
+   pub fun deletesociety(building: String, name: String, flatNumber: Int, swimmingPool: String, account: Address) {
+   let remainingsociety = Society(_building: building, _name: name, _flatNumber: flatNumber, _swimmingPool: swimmingPool,  _account: account)
+   self.societies[account] =  remainingsociety
+   }
+init() {
+ self.societies = {}
+ }
+}
+
+
+...solidity
+
+
+
