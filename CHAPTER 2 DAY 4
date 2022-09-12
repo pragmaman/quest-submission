@@ -1,5 +1,5 @@
 Chapter 2 Day 4 - Basic Structs
-...solidity
+...cadence
 
 pub contract LasVegas {
 pub var societies: {Address: Society}
@@ -29,7 +29,7 @@ init() {
 }
 
 
-...solidity
+...cadence
 
 
 
