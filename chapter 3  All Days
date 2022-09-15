@@ -1,0 +1,34 @@
+CHAPTER 3 DAY 1 
+
+ Q1   --->STRUCTS & resource  are  very much different 
+structs can copy 
+structs can overwrite
+structs can be creaated whenever we want...
+
+
+ Q2  ---->  Let's say we want to give someone an NFT worth billions of dollars. Don't we want to make sure we don't lose that NFT? 
+Like really sure? We can do this in Cadence because it's so hard to lose our Resource unless we LITERALLY tell
+ it to destroy. This plays into the overall theme in Cadence: Cadence makes it very hard for the developer to mess up.
+Which is good.
+
+Q3 ---->  create is a keyword to make a new resouce
+
+Q4 ----->false resource can only be created at contact only 
+
+Q5 ---->String is the type of resource  @jacob
+
+Q6 ----> 
+...cadence
+
+    pub contract Test {
+     pub resource jacob {
+    pub lets rocks: Bool
+   
+    init() {
+    self.rocks = true
+    }
+    }
+    pub fun createJacob(): @Jacob {
+    let myJacob <- create jacob
+    return <- myJacob 
+                      ...cadence
